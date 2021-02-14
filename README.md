@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# devonding.github.io
+Repository for Devon Ding's academic research website.
